@@ -50,12 +50,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=koushik1610&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ### 🔍 What I Build
