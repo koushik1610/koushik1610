@@ -52,7 +52,7 @@
 
 ---
 
-### 🔍 What I Build
+### 🔍 What I Build 
 
 | Project | Description | Impact |
 |---------|-------------|--------|
